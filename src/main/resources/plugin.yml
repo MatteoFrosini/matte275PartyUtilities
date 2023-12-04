@@ -1,0 +1,4 @@
+name: PartyUtilities
+version: '${project.version}'
+main: com.matte275.partyutilities.PartyUtilities
+api-version: '1.20'
