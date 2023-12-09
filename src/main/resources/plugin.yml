@@ -3,6 +3,9 @@ version: '${project.version}'
 main: com.matte275.partyutilities.PartyUtilities
 api-version: '1.20'
 commands:
+  party:
+    description: See the party menu
+    usage: /<command>
   partyinvite:
     description: Invite someone to the party
     usage: /<command> <player>
